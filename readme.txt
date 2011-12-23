@@ -24,5 +24,8 @@ Requires [SyntaxHighlighter Evolved](http://www.viper007bond.com/wordpress-plugi
 
 == Changelog ==
 
+= 1.1 =
+* Re-adding the JS file as it had been eaten by an exchange server
+
 = 1.0 =
 * Initial release
