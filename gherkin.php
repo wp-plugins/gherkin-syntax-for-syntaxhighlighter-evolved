@@ -4,7 +4,7 @@
 
 Plugin Name:  Gherkin Syntax for SyntaxHighlighter Evolved
 Plugin URI:   http://www.bankofcanada.ca/
-Version:      1.0
+Version:      1.1
 Description:  Adds Gherkin/Cucumber/Behat syntax for SyntaxHighlighter Evolved.
 Author:       Michael Hall, Bank of Canada
         
